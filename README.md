@@ -62,7 +62,10 @@ Run the program with input/output files:
 
 ## Technical Requirements
 Java
+
 File I/O Handling
+
 Graph Algorithms (Dijkstra’s Algorithm for shortest path)
+
 Custom Data Structures (Priority Queue, HashMap, and 2D ArrayLists)
 
